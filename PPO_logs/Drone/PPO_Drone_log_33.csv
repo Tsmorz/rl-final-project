@@ -1,0 +1,6 @@
+episode,timestep,reward,update_timestep,K_epochs,eps_clip,gamma,lr_actor,lr_critic,random_seed,
+117,800,173.8462,1600,100,0.4,0.99,1e-05,0.0005,0,
+231,1600,181.5702
+352,2400,167.5785
+468,3200,176.1034
+587,4000,171.6723
